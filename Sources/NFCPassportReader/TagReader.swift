@@ -11,7 +11,6 @@ import Foundation
 #if !os(macOS)
 import CoreNFC
 
-@available(iOS 15, *)
 public class TagReader {
     var tag : NFCISO7816Tag
     var secureMessaging : SecureMessaging?
