@@ -34,7 +34,6 @@ public class PassportReader : NSObject {
     private var mrzKey : String = ""
     private var dataAmountToReadOverride : Int? = nil
     
-    private var scanCompletedHandler: ((NFCPassportModel?, NFCPassportReaderError?)->())!
     private var nfcViewDisplayMessageHandler: ((NFCViewDisplayMessage) -> String?)?
     private var masterListURL : URL?
     private var shouldNotReportNextReaderSessionInvalidationErrorUserCanceled : Bool = false
