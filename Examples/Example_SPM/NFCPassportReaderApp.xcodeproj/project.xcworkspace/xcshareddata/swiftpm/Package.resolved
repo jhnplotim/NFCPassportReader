@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/krzyzanowskim/OpenSSL.git",
         "state": {
           "branch": null,
-          "revision": "9429bf89fe0df2d2f25f3a9a51cbf7092e69640f",
-          "version": "1.1.1700"
+          "revision": "87f41bf9488e7dd2b0de2ab97cb3eafc7304e0e6",
+          "version": "1.1.2000"
         }
       }
     ]
